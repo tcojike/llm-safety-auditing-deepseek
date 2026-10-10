@@ -1,0 +1,8 @@
+datasets==5.1.0
+matplotlib==3.10.9
+openai==3.26.1
+pandas==2.3.3
+scipy==1.15.3
+torch==2.13.0
+transformers==5.17.0
+vllm==0.31.0

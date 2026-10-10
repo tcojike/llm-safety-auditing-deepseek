@@ -1,0 +1,10 @@
+venv*/
+HarmBench/
+results/*_comp.json
+results/*_censor.json
+results/*_judged.json
+*.log
+__pycache__/
+.cache/
+*.safetensors
+*.bin
